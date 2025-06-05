@@ -1,0 +1,14 @@
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+*.log
+
+# Répertoires temporaires
+temp/
+tmp/
+
+# Dossiers spécifiques aux IDE
+.vscode/
+.idea/
